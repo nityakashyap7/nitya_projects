@@ -1,0 +1,5 @@
+Coyote: Morgan Hill, San Jose, Milpitas
+Guadalupe: San Jose, Los Gatos, Monte Sereno, Campbell, Santa Clara
+Lower Peninsula: Los Altos Hills, Palo Alto, Mountain View, Los Altos, Cupertino, Sunnyvale
+Pajaro: San Jose, Morgan Hill, Gilroy
+West Valley: Sunnyvale, Cupertino, San Jose, Santa Clara, Campbell, Saratoga, Monte Sereno, Los Gatos
